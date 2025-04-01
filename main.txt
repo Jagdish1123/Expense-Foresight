@@ -1,0 +1,84 @@
+🚀 Features of Your AI-Powered Expense Management System
+1️⃣ AI-Based Expense Prediction (TensorFlow)
+Dynamic Budget Allocation 📊
+
+Personalized Financial Insights 💡
+
+AI-Powered Expense Forecasting 🔮
+
+Real-Time Expense Tracking ⏳
+
+2️⃣ Expense Tracking Process Flow
+Real-Time Data Processing ⚡
+
+Automated Expense Insights 🤖
+
+Expense Entry & Categorization 📝
+
+Budget Comparison & Alerts 🚨
+
+3️⃣ Group Expense & Settlement
+Insights & History 📜
+
+Multi-User Collaboration 👥
+
+Shared Expense Tracking 🏦
+
+AI-Based Expense Splitting ✂️
+
+4️⃣ Payment Simulation & Quick Loans (Razorpay, Firebase)
+PSP Integration Simulation 🏦
+
+Mark Expenses as Paid ✅
+
+Loan Requests 💰
+
+5️⃣ Smart Notifications & Alerts (⚡)
+Alert Trigger Conditions 🔔
+
+Push Notifications 📲
+
+6️⃣ AI Financial Assistant (Gemini)
+AI-Based Spending Insights 📊
+
+7️⃣ Database (MongoDB)
+Stores all transaction, spending, and budget data 📁
+
+🔄 Flow of the System
+1️⃣ User Login & API Request
+
+User logs in via React, Node.js, and Tailwind CSS frontend.
+
+2️⃣ AI-Based Expense Prediction (TensorFlow)
+
+Processes user spending patterns and gives real-time expense insights.
+
+Updates budget allocation dynamically.
+
+3️⃣ Group Expense & Settlement
+
+Collects past group spending data.
+
+Handles bill splitting and settlements.
+
+4️⃣ Expense Tracking Process Flow
+
+Real-time expense tracking.
+
+Categorizes expenses and compares budgets.
+
+Sends overspending alerts.
+
+5️⃣ Payment Simulation & Quick Loans
+
+Razorpay & Firebase handle payment simulations.
+
+Users can mark expenses as paid or request loans.
+
+6️⃣ Smart Notifications & Alerts
+
+Sends reminders for payments and alerts for overspending.
+
+7️⃣ Database (MongoDB) Storage
+
+Centralized storage of user expense data, transactions, and budget updates.

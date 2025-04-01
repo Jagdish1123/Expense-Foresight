@@ -1,0 +1,183 @@
+date,description,category,amount
+2023-01-01,groceries,food,45.30
+2023-01-02,coffee,restaurant,4.50
+2023-01-02,bus ticket,transport,2.75
+2023-01-03,monthly rent,rent,1200.00
+2023-01-04,lunch,restaurant,12.50
+2023-01-05,book,personal_development,20.00
+2023-01-06,doctor's appointment,healthcare,100.00
+2023-01-07,taxi,transport,15.00
+2023-01-08,dinner,restaurant,30.00
+2023-01-09,groceries,food,50.00
+2023-01-10,internet,utilities,35.00
+2023-01-11,groceries,food,47.80
+2023-01-12,phone bill,utilities,60.00
+2023-01-13,groceries,food,52.50
+2023-01-14,transportation,transport,25.00
+2023-01-15,rent,rent,1200.00
+2023-01-16,coffee,restaurant,5.00
+2023-01-17,lunch,restaurant,11.50
+2023-01-18,taxi,transport,20.00
+2023-01-19,groceries,food,48.00
+2023-01-20,monthly gym fee,personal_development,30.00
+2023-01-21,doctor's appointment,healthcare,95.00
+2023-01-22,dinner,restaurant,40.00
+2023-01-23,groceries,food,49.30
+2023-01-24,transportation,transport,23.00
+2023-01-25,book,personal_development,18.00
+2023-01-26,internet,utilities,38.00
+2023-01-27,groceries,food,53.00
+2023-01-28,phone bill,utilities,55.00
+2023-01-29,transportation,transport,19.00
+2023-01-30,rent,rent,1200.00
+2023-01-31,dinner,restaurant,35.00
+2023-02-01,groceries,food,46.20
+2023-02-02,coffee,restaurant,4.75
+2023-02-03,bus ticket,transport,2.75
+2023-02-04,lunch,restaurant,13.50
+2023-02-05,movie ticket,entertainment,12.00
+2023-02-06,groceries,food,48.50
+2023-02-07,taxi,transport,18.00
+2023-02-08,dinner,restaurant,32.00
+2023-02-09,groceries,food,51.00
+2023-02-10,internet,utilities,35.00
+2023-02-11,phone bill,utilities,60.00
+2023-02-12,groceries,food,49.80
+2023-02-13,transportation,transport,24.00
+2023-02-14,rent,rent,1200.00
+2023-02-15,coffee,restaurant,5.50
+2023-02-16,lunch,restaurant,14.00
+2023-02-17,taxi,transport,22.00
+2023-02-18,groceries,food,47.50
+2023-02-19,monthly gym fee,personal_development,30.00
+2023-02-20,doctor's appointment,healthcare,105.00
+2023-02-21,dinner,restaurant,38.00
+2023-02-22,groceries,food,50.20
+2023-02-23,transportation,transport,21.00
+2023-02-24,book,personal_development,19.00
+2023-02-25,internet,utilities,38.00
+2023-02-26,groceries,food,52.00
+2023-02-27,phone bill,utilities,55.00
+2023-02-28,transportation,transport,20.00
+2023-03-01,rent,rent,1200.00
+2023-03-02,dinner,restaurant,36.00
+2023-03-03,groceries,food,44.80
+2023-03-04,coffee,restaurant,4.50
+2023-03-05,bus ticket,transport,2.75
+2023-03-06,lunch,restaurant,12.00
+2023-03-07,groceries,food,47.30
+2023-03-08,taxi,transport,17.00
+2023-03-09,dinner,restaurant,34.00
+2023-03-10,groceries,food,49.50
+2023-03-11,internet,utilities,35.00
+2023-03-12,phone bill,utilities,60.00
+2023-03-13,groceries,food,48.20
+2023-03-14,transportation,transport,23.00
+2023-03-15,rent,rent,1200.00
+2023-03-16,coffee,restaurant,5.00
+2023-03-17,lunch,restaurant,13.50
+2023-03-18,taxi,transport,19.00
+2023-03-19,groceries,food,50.00
+2023-03-20,monthly gym fee,personal_development,30.00
+2023-03-21,doctor's appointment,healthcare,110.00
+2023-03-22,dinner,restaurant,42.00
+2023-03-23,groceries,food,51.50
+2023-03-24,transportation,transport,22.00
+2023-03-25,book,personal_development,17.00
+2023-03-26,internet,utilities,38.00
+2023-03-27,groceries,food,53.50
+2023-03-28,phone bill,utilities,55.00
+2023-03-29,transportation,transport,20.00
+2023-03-30,rent,rent,1200.00
+2023-03-31,dinner,restaurant,37.00
+2023-04-01,groceries,food,45.50
+2023-04-02,coffee,restaurant,4.75
+2023-04-03,bus ticket,transport,2.75
+2023-04-04,lunch,restaurant,14.50
+2023-04-05,movie ticket,entertainment,15.00
+2023-04-06,groceries,food,48.00
+2023-04-07,taxi,transport,16.00
+2023-04-08,dinner,restaurant,33.00
+2023-04-09,groceries,food,49.80
+2023-04-10,internet,utilities,35.00
+2023-04-11,phone bill,utilities,60.00
+2023-04-12,groceries,food,47.20
+2023-04-13,transportation,transport,24.00
+2023-04-14,rent,rent,1200.00
+2023-04-15,coffee,restaurant,5.50
+2023-04-16,lunch,restaurant,12.50
+2023-04-17,taxi,transport,18.00
+2023-04-18,groceries,food,50.50
+2023-04-19,monthly gym fee,personal_development,30.00
+2023-04-20,doctor's appointment,healthcare,100.00
+2023-04-21,dinner,restaurant,40.00
+2023-04-22,groceries,food,52.00
+2023-04-23,transportation,transport,21.00
+2023-04-24,book,personal_development,20.00
+2023-04-25,internet,utilities,38.00
+2023-04-26,groceries,food,49.00
+2023-04-27,phone bill,utilities,55.00
+2023-04-28,transportation,transport,19.00
+2023-04-29,rent,rent,1200.00
+2023-04-30,dinner,restaurant,35.00
+2023-05-01,groceries,food,46.00
+2023-05-02,coffee,restaurant,4.50
+2023-05-03,bus ticket,transport,2.75
+2023-05-04,lunch,restaurant,13.00
+2023-05-05,groceries,food,47.50
+2023-05-06,taxi,transport,17.00
+2023-05-07,dinner,restaurant,31.00
+2023-05-08,groceries,food,50.20
+2023-05-09,internet,utilities,35.00
+2023-05-10,phone bill,utilities,60.00
+2023-05-11,groceries,food,48.80
+2023-05-12,transportation,transport,22.00
+2023-05-13,rent,rent,1200.00
+2023-05-14,coffee,restaurant,5.00
+2023-05-15,lunch,restaurant,14.00
+2023-05-16,taxi,transport,20.00
+2023-05-17,groceries,food,49.50
+2023-05-18,monthly gym fee,personal_development,30.00
+2023-05-19,doctor's appointment,healthcare,105.00
+2023-05-20,dinner,restaurant,39.00
+2023-05-21,groceries,food,51.00
+2023-05-22,transportation,transport,23.00
+2023-05-23,book,personal_development,18.00
+2023-05-24,internet,utilities,38.00
+2023-05-25,groceries,food,52.50
+2023-05-26,phone bill,utilities,55.00
+2023-05-27,transportation,transport,20.00
+2023-05-28,rent,rent,1200.00
+2023-05-29,dinner,restaurant,36.00
+2023-05-30,groceries,food,47.00
+2023-05-31,coffee,restaurant,4.75
+2023-06-01,bus ticket,transport,2.75
+2023-06-02,lunch,restaurant,12.50
+2023-06-03,groceries,food,48.50
+2023-06-04,taxi,transport,16.00
+2023-06-05,dinner,restaurant,32.00
+2023-06-06,groceries,food,49.20
+2023-06-07,internet,utilities,35.00
+2023-06-08,phone bill,utilities,60.00
+2023-06-09,groceries,food,50.00
+2023-06-10,transportation,transport,21.00
+2023-06-11,rent,rent,1200.00
+2023-06-12,coffee,restaurant,5.50
+2023-06-13,lunch,restaurant,13.50
+2023-06-14,taxi,transport,19.00
+2023-06-15,groceries,food,51.50
+2023-06-16,monthly gym fee,personal_development,30.00
+2023-06-17,doctor's appointment,healthcare,100.00
+2023-06-18,dinner,restaurant,41.00
+2023-06-19,groceries,food,52.00
+2023-06-20,transportation,transport,22.00
+2023-06-21,book,personal_development,19.00
+2023-06-22,internet,utilities,38.00
+2023-06-23,groceries,food,53.00
+2023-06-24,phone bill,utilities,55.00
+2023-06-25,transportation,transport,20.00
+2023-06-26,rent,rent,1200.00
+2023-06-27,dinner,restaurant,37.00
+2023-06-28,groceries,food,46.50
+2023-06-29,coffee,restaurant,4.50
+2023-06-30,bus ticket,transport,2.75
